@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ramond.amelie@gmail.com
+	name = AmelieRamond
